@@ -11,6 +11,6 @@ After using it for a while your eyes will never let you go back to a light theme
 ![pic][1]
 
 
-  [1]: http://i.stack.imgur.com/AowGI.png
+  [1]: http://i.imgur.com/65YEOha.png
   
   To install, copy the file to **~/Library/Developer/Xcode/UserData/FontAndColorThemes** and restart Xcode.
